@@ -27,3 +27,5 @@ Factory I/O Warehouse Scene ↔ MX OPC Server ↔ GX Works3 / Mitsubishi PLC
 docs/               I/O mapping documentation
 images/             Project screenshots
 gxworks3_project/   GX Works3 PLC project
+
+watch video demo: https://youtu.be/8thByQM86zI
