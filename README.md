@@ -10,20 +10,20 @@ PLC control simulation for the built-in Warehouse scene in Factory I/O using GX 
 - MX OPC Server
 - Ladder Logic
 
-## Project Scope
-
-- Programmed PLC logic for the Factory I/O Warehouse model
-- Connected Factory I/O with PLC through MX OPC
-- Configured I/O mapping between sensors, conveyors, actuators and PLC devices
-- Implemented sequence control, interlock logic and warehouse operation flow
-
 ## System Architecture
 
 Factory I/O Warehouse Scene ↔ MX OPC Server ↔ GX Works3 / Mitsubishi PLC
+
+## Project Scope
+
+- Programmed PLC logic for the Factory I/O Warehouse model
+- Configured MX OPC tags for Factory I/O communication
+- Mapped Factory I/O sensors and actuators to PLC X/Y/D devices
+- Implemented warehouse sequence control using Ladder Logic
 
 ## Repository Structure
 
 ```text
 docs/               I/O mapping documentation
 images/             Project screenshots
-gxworks3_project/   GX Works3 PLC project file
+gxworks3_project/   GX Works3 PLC project
